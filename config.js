@@ -3,9 +3,9 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6281390658325'],
-  ['6282256115584'],
-  ['6281319944687', 'BG', true]
+  ['6283847909854', 'CEPLOK', true],
+  ['6287877173955', 'FERDIZ', true],
+  ['6285608625102', 'RAMA', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -22,16 +22,16 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b',
+  'https://api.xteam.xyz': '4ea2f5b23aef889d',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+  'https://leyscoders-api.herokuapp.com': 'IkyOgiwara'
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285713964963'
-global.author = 'Metro Bot'
+global.packname = 'Yui-Chan'
+global.author = 'By LeonGanz'
 
 global.multiplier = 69 // The higher, The harder levelup
 
